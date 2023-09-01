@@ -1,0 +1,58 @@
+Action Predicted: object_falling
+Confidence: 0.9999319314956665 File nameObject_fall_002_17.avi
+Action Predicted: object_falling
+Confidence: 0.9965476393699646 File nameObject_fall_002_232.avi
+Action Predicted: object_falling
+Confidence: 0.9978019595146179 File nameObject_fall_002_77.avi
+Action Predicted: object_falling
+Confidence: 0.9856945872306824 File nameObject_fall_003_17.avi
+Action Predicted: object_falling
+Confidence: 0.8711878061294556 File nameObject_fall_004_118.avi
+Action Predicted: object_falling
+Confidence: 0.6112976670265198 File nameObject_fall_005_118.avi
+Action Predicted: object_falling
+Confidence: 0.573722779750824 File nameObject_fall_005_119.avi
+Action Predicted: object_falling
+Confidence: 0.7872542142868042 File nameObject_fall_005_13.avi
+Action Predicted: object_falling
+Confidence: 0.7788589000701904 File nameObject_fall_005_15.avi
+Action Predicted: normal
+Confidence: 0.5107442736625671 File nameObject_fall_005_161.avi
+Action Predicted: object_falling
+Confidence: 0.6736406087875366 File nameObject_fall_013_6.avi
+Action Predicted: object_falling
+Confidence: 0.9450135231018066 File nameObject_fall_017_2.avi
+Action Predicted: object_falling
+Confidence: 0.9643915891647339 File nameObject_fall_017_4.avi
+Action Predicted: object_falling
+Confidence: 0.8849778771400452 File nameObject_fall_018_2.avi
+Action Predicted: object_falling
+Confidence: 0.9229653477668762 File nameObject_fall_018_3.avi
+Action Predicted: object_falling
+Confidence: 0.8477741479873657 File nameObject_fall_018_4.avi
+Action Predicted: object_falling
+Confidence: 0.8740100860595703 File nameObject_fall_022_1.avi
+Action Predicted: object_falling
+Confidence: 0.780260443687439 File nameObject_fall_023_2.avi
+Action Predicted: object_falling
+Confidence: 0.560939371585846 File nameObject_fall_026_2.avi
+Action Predicted: normal
+Confidence: 0.5383576154708862 File nameObject_fall_029_1.avi
+Action Predicted: object_falling
+Confidence: 0.6082354187965393 File nameObject_fall_031_1.avi
+Action Predicted: normal
+Confidence: 0.6130437850952148 File nameObject_fall_032_2.avi
+Action Predicted: normal
+Confidence: 0.5252594351768494 File nameObject_fall_033_1.avi
+Action Predicted: object_falling
+Confidence: 0.784598708152771 File nameObject_fall_034_4.avi
+Action Predicted: normal
+Confidence: 0.7847499847412109 File nameObject_fall_045_24.avi
+Action Predicted: object_falling
+Confidence: 0.5270780920982361 File nameObject_fall_045_56.avi
+Action Predicted: object_falling
+Confidence: 0.6889060139656067 File nameObject_fall_045_66.avi
+Action Predicted: object_falling
+Confidence: 0.6538097262382507 File nameObject_fall_045_80.avi
+Action Predicted: normal
+Confidence: 0.9988401532173157 File nameObject_fall_046_49.avi
